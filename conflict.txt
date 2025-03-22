@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Conflict change" 
+=======
+"Different conflict change" 
+>>>>>>> feature2
